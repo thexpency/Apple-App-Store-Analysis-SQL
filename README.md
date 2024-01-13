@@ -9,4 +9,4 @@ This project provides a comprehensive dataset sourced from the Apple App Store, 
 
 ### Tools
 - Excel- Data Cleaning 
-- SQL Server- An online [SQLserver]([https://sqliteonline.com/)for data analysis
+- SQL Server- An [online SQLserver](https://sqliteonline.com/) for data analysis.
