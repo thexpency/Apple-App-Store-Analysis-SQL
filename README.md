@@ -6,3 +6,7 @@ This project provides a comprehensive dataset sourced from the Apple App Store, 
 ### Data  Source
 - Apple Store Data: The primary dataset for the analysis is "AppleStore.csv" file, which contains information on apps on the aple storesuch as: app names, sizing bytes, ratings, supporting device, and supporting languages.
 - Apple Store Description: The secondary dataset "appleStore_description.csv" also gives us an overview of each app description, and the perceverence in the store.
+
+### Tools
+- Excel- Data Cleaning 
+- SQL Server- An online [SQLserver]([https://sqliteonline.com/)for data analysis
