@@ -9,4 +9,9 @@ This project provides a comprehensive dataset sourced from the Apple App Store, 
 
 ### Tools
 - Excel- Data Cleaning 
-- SQL Server- An [online SQLserver](https://sqliteonline.com/) for data analysis.
+- SQLite Server- An [online SQLserver](https://sqliteonline.com/) for data analysis.
+
+### Connecting to the Dataset
+- With [SQLite online](https://sqliteonline.com/) we connect our "AppleStore.csv" dataset directly by importing, without having to download or install any software.
+- The online SQL server has a limit of 4 megabytes, so we split our "appleStore_description.csv" dataset into four little sizes before importing to the server.
+- We also use the powerful "UNION ALL" feature to combine our seperated tables back to a single one.
