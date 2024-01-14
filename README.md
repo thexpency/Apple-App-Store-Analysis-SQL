@@ -78,12 +78,14 @@ This includes some interesting codes to help with further exploration of the dat
 - What is the correlation between the length of descrption and the user ratings.
 - What are the top rated apps for each genre.
 
+**Note**- All codes can be found on the "SQLite.sql" file
+
 ### Results
 - Paid apps have higher ratings than free apps
 - Apps with about 10-30 supportd languages have higher ratings.
 - The catalog and finance genre has less ratings.
 - The longer the description of an app, the better the ratings
-- the top rated apps for each genre are business, catalogs, education, entertainment, and finance.
+- The top rated apps for each genre are business, catalogs, education, entertainment, and finance.
 
 ### Final Recommendations
 - Paid apps generally archieve slightly higher ratings than their free counterparts, as users would pay for apps with higher engagement to perceive more value, which may lead to higher ratings. An app developer should consider charging for their app if the app is considered good.
@@ -92,5 +94,4 @@ This includes some interesting codes to help with further exploration of the dat
 - A well-crafted app description can set clear expectations and eventually increase the satisfaction of users, so apps with longer descriptions have better ratings.
 - Every app developer should aim above the average rating of 3.5 in order to stand out.
 - The games and entertainment categories are very saturated, leading to high competition within the sector. However, the genres have high demand.
-  - 
 
