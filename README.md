@@ -71,5 +71,26 @@ from appleStore;
 ```
 
 ### Data Analysis
-This includes some interesting codes to help with further exploration of the dataset to provide answers to questions from our stakeholders.
+This includes some interesting codes to help with further exploration of the dataset to provide answers to our stakeholders with questions such as:
+- Determine if paid apps have higher ratings than free apps
+- Determine if apps with more supported languages have higher ratings.
+- What genre have higher ratings.
+- What is the correlation between the length of descrption and the user ratings.
+- What are the top rated apps for each genre.
+
+### Results
+- Paid apps have higher ratings than free apps
+- Apps with about 10-30 supportd languages have higher ratings.
+- The catalog and finance genre has less ratings.
+- The longer the description of an app, the better the ratings
+- the top rated apps for each genre are business, catalogs, education, entertainment, and finance.
+
+### Final Recommendations
+- Paid apps generally archieve slightly higher ratings than their free counterparts, as users would pay for apps with higher engagement to perceive more value, which may lead to higher ratings. An app developer should consider charging for their app if the app is considered good.
+- The app developer should focus on the right set of languages between 10 to 30, as that is the best range of supported languages for app with better ratings.
+- The finance and catalogs apps have low ratings because the user needs are not met, this is a niche the app developer should consider to explore.
+- A well-crafted app description can set clear expectations and eventually increase the satisfaction of users, so apps with longer descriptions have better ratings.
+- Every app developer should aim above the average rating of 3.5 in order to stand out.
+- The games and entertainment categories are very saturated, leading to high competition within the sector. However, the genres have high demand.
+  - 
 
